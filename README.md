@@ -1,3 +1,6 @@
+# Cylence
+
+
 Cylence is an end‑to‑end encrypted messaging application that aims to bring uncompromising privacy to everyday conversations — without sacrificing simplicity or style.
 
 Why Cylence?
